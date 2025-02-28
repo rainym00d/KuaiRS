@@ -13,6 +13,25 @@ Moreover, it serves as a bridge between recommendation and search, seamlessly tr
 
 ![overview](./assets/fig/overview.png)
 
+## Download
+
+KuaiRS has been shared at [https://zenodo.org/records/14929343](https://zenodo.org/records/14929343).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14929343.svg)](https://doi.org/10.5281/zenodo.14929343)
+
+OPTION 1. Download via your browser:
+
+You can download the dataset from this [link](https://zenodo.org/record/14929343).
+
+OPTION 2: Download via the 'wget' command tool:
+
+For the **KuaiRS** dataset:
+```bash
+wget https://zenodo.org/record/14929343/files/KuaiRS.tar.gz
+
+tar zxvf KuaiRS.tar.gz
+```
+
 ## License
 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
